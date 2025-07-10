@@ -1,8 +1,9 @@
 # xxx_demo
 
-## Introdction
-
-There two tasks that we will show you some examples.
+## Introduction
+xxx, a novel open audio-language model designed for efficient and comprehensive audio understanding through the use of general audio captions using our novel ACAVCaps training dataset.  
+xxx exclusively relies on publicly available pretraining and supervised fine-tuning (SFT) datasets, ensuring full transparency and reproducibility. At its core, xxx integrates Dasheng, an open-source audio encoder, specifically engineered to process diverse auditory information effectively.  
+There two tasks that we want to show you some examples.
 ## Speech Meta Analysis(SMA)
 ### Speaker Timbre Analysis
 This task illustrates the effectiveness of a speaker's timbre analysis via the following prompt:
