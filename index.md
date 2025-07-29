@@ -1,5 +1,3 @@
-# xxx-7B_demo
-
 ## Introduction
 xxx integrates the powerful Dasheng audio encoder with the Qwen2.5-Omni-7B Thinker decoder through a unique caption-based alignment strategy.
 Unlike conventional ASR-driven approaches, our model leverages general audio captions to capture comprehensive audio representations encompassing speech, environmental sounds, and musical elements
